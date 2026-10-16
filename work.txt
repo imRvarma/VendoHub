@@ -1,6 +1,6 @@
 //npm create vite@latest client -- --template react
 
-# userName:rahul123
-# password:4oJWQxT6UgTIvGkC
+# userName:123rahul
+# password:xcqYBSJc6JYCvKX1
 
-# mongodb+srv://rahul123:4oJWQxT6UgTIvGkC@cluster0.hz9vexk.mongodb.net/?appName=Cluster0
+# mongodb+srv://123rahul:xcqYBSJc6JYCvKX1@cluster0.hz9vexk.mongodb.net/?appName=Cluster0
