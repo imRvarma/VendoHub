@@ -28,8 +28,10 @@ app.get("/", (req, res) => {
   res.send("MERN backend is running!");
 });
 //define routes
-const authRoutes =require("./routes/auth");
+const authRoutes = require("./routes/auth");
+const managerRoutes = require("./routes/managerRoute");
 //use routes
-app.use("/api/auth",authRoutes);
+app.use("/api/auth", authRoutes);
+app.use("/api/manager", managerRoutes);
 //exports app
 module.exports = app;
